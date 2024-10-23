@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:bottomLeftRadius="10dp" android:bottomRightRadius="10dp"/>
+    <gradient
+        android:angle="270"
+        android:startColor="#00000000"
+        android:endColor="#000000"
+        android:type="linear">
+
+        <item android:color="#000000" android:offset="0.0" />  <!-- Start color (black) at the bottom -->
+        <item android:color="#000000" android:offset="0.5" />  <!-- Same color to 40% -->
+        <item android:color="#00000000" android:offset="1.0" /> <!-- End color (transparent) at the top -->
+
+    </gradient>
+</shape>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Agripro</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="topHome1">Take your farming to new heights with AgriPro Express Fertilizers today! </string>
+    <string name="topHomeTitle1">About Fertilizer And Crops</string>
+    <string name="topHome2">Boost your livestocks productivity with AgriPro Express Feeds today!</string>
+    <string name="topHomeTitle2">About Feeds And Livestock</string>
+    <string name="title_cart">Order Cart</string>
+    <string name="title_chat">Chat Bot</string>
+    <string name="title_info">Info</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_myCart">My Cart</string>
+    <string name="text_reminder">Once you get the receipt upload the screenshot below.</string>
+    <string name="text_reminder1">To make it specify, make sure to input your specified address detail below.</string>
+</resources>

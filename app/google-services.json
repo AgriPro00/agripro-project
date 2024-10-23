@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476104807391",
+    "project_id": "agripro-express-4b411",
+    "storage_bucket": "agripro-express-4b411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476104807391:android:3e463a24467ec2098e2a6a",
+        "android_client_info": {
+          "package_name": "com.example.agripro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqcTlVk7luWhDLrI3ALqScV7ImWYUwXoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
